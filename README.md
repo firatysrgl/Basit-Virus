@@ -140,7 +140,7 @@ Simülasyonun kontrolden çıkmaması için SahteKilitEkrani sınıfında bir g�
 
 
 
-!\[Ara Yüz Ekranı](https://github.com/firatysrgl/Basit-Virus/blob/main/screenshot/ss.png)
+![Ara Yüz Ekranı](https://github.com/firatysrgl/Basit-Virus/blob/main/screenshot/ss.png)
 
 
 
