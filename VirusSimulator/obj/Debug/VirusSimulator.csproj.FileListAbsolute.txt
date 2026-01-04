@@ -1,0 +1,8 @@
+C:\Users\FIRAT YUNUS\source\repos\VirusSimulator\VirusSimulator\bin\Debug\VirusSimulator.exe.config
+C:\Users\FIRAT YUNUS\source\repos\VirusSimulator\VirusSimulator\bin\Debug\VirusSimulator.exe
+C:\Users\FIRAT YUNUS\source\repos\VirusSimulator\VirusSimulator\bin\Debug\VirusSimulator.pdb
+C:\Users\FIRAT YUNUS\source\repos\VirusSimulator\VirusSimulator\obj\Debug\VirusSimulator.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\source\repos\VirusSimulator\VirusSimulator\obj\Debug\VirusSimulator.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\source\repos\VirusSimulator\VirusSimulator\obj\Debug\VirusSimulator.exe
+C:\Users\FIRAT YUNUS\source\repos\VirusSimulator\VirusSimulator\obj\Debug\VirusSimulator.pdb
+C:\Users\FIRAT YUNUS\source\repos\VirusSimulator\VirusSimulator\obj\Debug\VirusSimulator.exe.config
